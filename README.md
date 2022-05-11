@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o Lucas Simão 
  <div>
   <a href="https://github.com/LucasOliveiraSimao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=https://Oliveira.lucas20@gmail.com@github.com&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasOliveiraSimao&show_icons=true&theme=dracula&include_all_commits=true&count_public=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOliveiraSimao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
