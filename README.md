@@ -7,10 +7,9 @@
  
  <div style="display: inline_block"><br>
 
-  <img align="center" alt="Lucas-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
-  <img align="center" alt="Lucas-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Android" height="80" width="120"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+  <img align="center" alt="Lucas-Kotlin"  height="80" width="120"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Lucas-Kotlin"  height="80" width="120"  src="https://codingwithmitch.s3.amazonaws.com/static/blog/f099482c-28a2-11e9-b183-2aabe8ede8eb/retrofit2_getting_started.png">
   <img align="right" alt="Rafa" height="150em" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div>
 
